@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @khunwtf1
+- My Name is Pitchayut Watcharapiyanun
 - 👀 I’m interested in Data Analyst, Data Scientist, Sport Analyst
 - 🌱 I’m currently learning ML, Data Science
 - 📫 you can follow me at 
