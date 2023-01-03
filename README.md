@@ -9,7 +9,7 @@
 - Email : pitchayut.wa@gmail.com
 
 Resume :
-
+![Pitchayut_Resume_update_3-1-23-1.jpg](https://github.com/khunwtf1/about-me/blob/main/Pitchayut_Resume_update_3-1-23-1.jpg)
 
 <!---
 khunwtf1/khunwtf1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
