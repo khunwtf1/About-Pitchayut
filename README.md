@@ -8,6 +8,9 @@
 - Facebook : Pitchayut Watcharapiyanun
 - Email : pitchayut.wa@gmail.com
 
+Resume :
+
+
 <!---
 khunwtf1/khunwtf1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
